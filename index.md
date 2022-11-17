@@ -5,3 +5,5 @@ También se llama «libro» a una obra de gran extensión publicada en varias un
 
 Persona leyendo un libro electrónico en un lector digital.
 No obstante, esta definición no queda circunscrita al mundo impreso o de los soportes físicos, dada la aparición y auge de los nuevos formatos documentales y especialmente de la World Wide Web. El libro digital o libro electrónico, conocido como e-book, está viendo incrementado su uso en el mundo del libro y en la práctica profesional bibliotecaria y documental. Además, el libro también puede encontrarse en formato audio, en cuyo caso se denomina audiolibro.
+
+cambio de la nueva rama
